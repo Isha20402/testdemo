@@ -1,0 +1,1 @@
+this is text 2 created in local machine and now adding to the remote repository
